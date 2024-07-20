@@ -4,7 +4,7 @@
 // let transporter = nodemailer.createTransport({
 //     service: 'gmail',
 //     auth: {
-//         user: 'bensoniyanutimothy@gmail.com',
+//         user: 'iyanutimothy@gmail.com',
 //         pass: '11111'
 //     }
 // })
@@ -13,7 +13,7 @@
 
 // let mailOptions = {
 //     from: 'timothybnsn@gmail.com',
-//     to: 'bensoniyanutimothy@gmail.com',
+//     to: 'biyanutimothy@gmail.com',
 //     subject: 'Hello from Node.js',
 //     text: 'This is a test email sent from a Node.js script.'
 // };
